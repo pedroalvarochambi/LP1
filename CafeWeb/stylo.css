@@ -1,0 +1,14 @@
+body{
+	background- url(imagenes/cafefondo.jpg) no-repeat cent
+	background-size: cover;
+	color: rgba(255,255,255,1);
+	font-family:'ubuntu', sans-serif;
+
+}
+ul{
+	display:inline-block;
+}
+li{
+	display:inline-block;
+	
+}
