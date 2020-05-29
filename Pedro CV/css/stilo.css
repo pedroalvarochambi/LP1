@@ -1,0 +1,40 @@
+body{
+	background: #FAF7F5;
+	background: -webkit-linear-gradient(to right,#125488,#3DD9D6 ,#ADD9D8,#ADD9D8,#3DD9D6 ,#37CAEC,#2A93D5, #125488);
+	background: linear-gradient(to right,#125488,#3DD9D6 ,#ADD9D8,#ADD9D8,#3DD9D6 ,#37CAEC,#2A93D5, #125488);
+	font-family: arial;
+	font-family: 'oswald', sans-serif;
+	
+
+}
+table{
+	margin:auto;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+.conternedores{
+	background: 
+}
+#foto{
+	width: 200px;
+	height: 200px;
+	margin-right: 15px;
+	border-radius: 50%;
+	align-items: center;
+}
+.nombrecabeza{
+	text-align: center;
+
+
+}
+.tabla1{
+	background-size: 300PX
+}
+.whatsapp{
+	height: 20px;
+	margin-right: 15px;
+	border-radius: 50%;
+	align-items: center;
+
+}
