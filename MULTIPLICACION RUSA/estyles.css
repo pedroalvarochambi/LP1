@@ -1,0 +1,48 @@
+body{
+	background: #FAF7F5;
+	
+	background: linear-gradient(to right,#3C3B3F,#605C3C );
+	font-family: arial;
+	font-family: 'oswald', sans-serif;
+
+}
+#cuadro{
+	background: linear-gradient(to right,#3C3B3F,#605C3C );
+    margin: center;
+    	margin-top: 20%;
+	margin-bottom: 20%;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+.titulo{
+	color: black;
+}
+header h1{
+	text-align: center;
+}
+
+.contenedor-formulario{
+	margin-left: 30%;
+
+
+}
+
+.contenedir-cajero{
+	margin: center
+}
+#tabla{
+	text-align: center;
+}
+#multiplicador{
+	background: transparent;
+}
+#multiplicando{
+	background: transparent;
+}
+#enviar{
+	background: transparent;
+}
+#limpiar{
+	background: transparent;
+}
